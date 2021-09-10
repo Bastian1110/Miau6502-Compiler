@@ -306,7 +306,7 @@ def writeAssembly():
 
 
 def compilee():
-    os.system("./vasm6502_oldstyle -Fbin -dotdir "+catfile+".s")
+    os.system("./vasm/vasm6502_oldstyle -Fbin -dotdir "+catfile+".s")
     os.system('mv a.out '+catfile+'.out')
 def removeAss():
     os.system("rm -r "+catfile+'.s')

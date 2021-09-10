@@ -1,4 +1,4 @@
-# Ignore
-__pycache__/
-vasm6502_oldstyle
-vasm6502_oldstyle
+.DS_Store
+*.s
+!Template.s
+vasm/
