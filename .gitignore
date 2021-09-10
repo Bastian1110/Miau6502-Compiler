@@ -1,6 +1,5 @@
 .DS_Store
 *.s
 !Template.s
-/vasm6502_oldstyle
-/vobjdump
+vasm/
 
