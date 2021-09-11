@@ -2,7 +2,10 @@
 A very primitive "Compiler", with the idea of compiling programs for Ben Eater's 6502 computer.
 
 
-
+<p float="left">
+  <img src="https://github.com/Bastian1110/Miau6502-Compiler/blob/master/Imgs/Example1.png" width=40% />
+  <img src="https://github.com/Bastian1110/Miau6502-Compiler/blob/master/Imgs/Example2.png" width=40% />
+</p>
 
 ## History
 
