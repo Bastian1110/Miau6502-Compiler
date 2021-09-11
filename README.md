@@ -112,5 +112,7 @@ I know it's not very useful, but I think with a little more work it can become u
 
 ### Dedications and Special Thanks to :
 This weird thing I did I dedicate to my girlfriend Harumi, since she encouraged me and inspired me to go ahead with the construction of the computer, since at some point I came to think that it was not worth it, she paid attention to my bizarre (and a little useless) creations even though I think no one cared. Harumi I looove you.
+
 68747470733a2f2f796f7574752e62652f4152635a70596c78694e73 <- Song
+
 After the super drama I did up there, I also thank Ben Ester for his videos, from which I have learned a lot and make me more passionate about computing.
