@@ -1,4 +1,5 @@
 # Miau6502-Compiler [DISCONTINUED]
+## Check Out The New Super Mega Version (Miau65i)[https://github.com/Bastian1110/Miau65i]
 A very primitive "Compiler", with the idea of compiling programs for Ben Eater's 6502 computer.
 
 
