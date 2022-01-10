@@ -1,4 +1,4 @@
-# Miau6502-Compiler
+# Miau6502-Compiler [DISCONTINUED]
 A very primitive "Compiler", with the idea of compiling programs for Ben Eater's 6502 computer.
 
 
